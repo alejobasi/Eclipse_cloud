@@ -8,9 +8,9 @@ public class triangulo {
        
  
         System.out.println();
-        for(int altura = 1; altura<=9; altura++){
+        for(int altura = 1; altura<=4; altura++){
             //Espacios en blanco
-            for(int blancos = 1; blancos<=9-altura; blancos++){
+            for(int blancos = 1; blancos<=4-altura; blancos++){
                 System.out.print(" ");
             }
  
